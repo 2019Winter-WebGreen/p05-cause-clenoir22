@@ -1,0 +1,53 @@
+/*
+* courtney lenoir
+* due date
+* project name and description
+*/
+
+/* the universal selector */
+
+* { padding: 0;
+    margin:0;
+
+}
+/* body attributes here*/
+body {
+    width: 90%;
+    margin: auto;
+}
+header { border-bottom: 6px dotted darkblue;
+        padding-bottom: 30px;
+        text-align: center
+}
+h1 { color:dodgerblue;
+    font-family:monospace;
+}
+body { background-color: #ebc8de;
+}
+#paw {float:left; 
+    margin: 5px;  
+    border: dotted;}
+
+#DE {float: right;
+     width:auto;
+    height:auto;
+    margin: 10px; 
+    border: 5px dashed darkblue;}
+
+#texas {float:right; 
+     width:auto;
+    height:auto;
+    margin: 10px; 
+    border: 5px dashed darkblue;}
+
+#animal {float:right; 
+    width: auto;
+    height:auto
+    margin: 10px; 
+    border: 5px dashed darkblue;}
+
+#small {float: right; 
+     width:auto;
+    height:auto;
+    margin: 10px; 
+    border: 5px dashed darkblue;}
